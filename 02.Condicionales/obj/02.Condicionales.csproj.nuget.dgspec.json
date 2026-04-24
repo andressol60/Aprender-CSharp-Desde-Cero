@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\02.Condicionales.csproj": {}
+    "C:\\Users\\Wellington Solis\\Desktop\\C#\\02.Condicionales\\02.Condicionales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\02.Condicionales.csproj": {
+    "C:\\Users\\Wellington Solis\\Desktop\\C#\\02.Condicionales\\02.Condicionales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\02.Condicionales.csproj",
+        "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\02.Condicionales\\02.Condicionales.csproj",
         "projectName": "02.Condicionales",
-        "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\02.Condicionales.csproj",
+        "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\02.Condicionales\\02.Condicionales.csproj",
         "packagesPath": "C:\\Users\\Wellington Solis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\obj\\",
+        "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\02.Condicionales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

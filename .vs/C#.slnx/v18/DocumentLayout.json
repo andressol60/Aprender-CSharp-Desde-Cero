@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{93A60BA5-1F5B-4AC6-AA40-3C0B597A4B39}|Condicionales\\02.Condicionales.csproj|c:\\users\\wellington solis\\desktop\\c#\\condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93A60BA5-1F5B-4AC6-AA40-3C0B597A4B39}|Condicionales\\02.Condicionales.csproj|solutionrelative:condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\Program.cs",
-              "RelativeDocumentMoniker": "Condicionales\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\Program.cs",
-              "RelativeToolTip": "Condicionales\\Program.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAuwHgAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T01:43:15.665Z",
-              "EditorCaption": ""
             }
           ]
         }
