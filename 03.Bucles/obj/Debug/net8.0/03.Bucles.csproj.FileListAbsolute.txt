@@ -1,0 +1,15 @@
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\bin\Debug\net8.0\03.Bucles.exe
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\bin\Debug\net8.0\03.Bucles.deps.json
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\bin\Debug\net8.0\03.Bucles.runtimeconfig.json
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\bin\Debug\net8.0\03.Bucles.dll
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\bin\Debug\net8.0\03.Bucles.pdb
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.dll
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\refint\03.Bucles.dll
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.pdb
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\03.Bucles.genruntimeconfig.cache
+C:\Users\Wellington Solis\Desktop\C#\03.Bucles\obj\Debug\net8.0\ref\03.Bucles.dll
