@@ -2,4 +2,5 @@
   <Project Path="01.Variables/01.Variables.csproj" Id="9a01a64e-ce32-4e82-b03c-bd0b3147fb2f" />
   <Project Path="02.Condicionales/02.Condicionales.csproj" />
   <Project Path="03.Bucles/03.Bucles.csproj" Id="a8c96bae-4916-4229-8cde-bc258f4f3ecf" />
+  <Project Path="04.MetodosYFunciones/04.MetodosYFunciones.csproj" Id="3512cfcb-bbbc-49f2-9464-b84e6b13e492" />
 </Solution>

@@ -1,0 +1,15 @@
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\bin\Debug\net8.0\04.MetodosYFunciones.exe
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\bin\Debug\net8.0\04.MetodosYFunciones.deps.json
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\bin\Debug\net8.0\04.MetodosYFunciones.runtimeconfig.json
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\bin\Debug\net8.0\04.MetodosYFunciones.dll
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\bin\Debug\net8.0\04.MetodosYFunciones.pdb
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.dll
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\refint\04.MetodosYFunciones.dll
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.pdb
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\04.MetodosYFunciones.genruntimeconfig.cache
+C:\Users\Wellington Solis\Desktop\C#\04.MetodosYFunciones\obj\Debug\net8.0\ref\04.MetodosYFunciones.dll

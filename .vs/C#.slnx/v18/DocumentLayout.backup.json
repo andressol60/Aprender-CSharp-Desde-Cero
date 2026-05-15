@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3512CFCB-BBBC-49F2-9464-B84E6B13E492}|04.MetodosYFunciones\\04.MetodosYFunciones.csproj|c:\\users\\wellington solis\\desktop\\c#\\04.metodosyfunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512CFCB-BBBC-49F2-9464-B84E6B13E492}|04.MetodosYFunciones\\04.MetodosYFunciones.csproj|solutionrelative:04.metodosyfunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8C96BAE-4916-4229-8CDE-BC258F4F3ECF}|03.Bucles\\03.Bucles.csproj|c:\\users\\wellington solis\\desktop\\c#\\03.bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8C96BAE-4916-4229-8CDE-BC258F4F3ECF}|03.Bucles\\03.Bucles.csproj|solutionrelative:03.bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
               "RelativeDocumentMoniker": "01.Variables\\Program.cs",
               "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
               "RelativeToolTip": "01.Variables\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T02:59:29.273Z",
+              "WhenOpened": "2026-05-15T03:40:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs",
+              "RelativeDocumentMoniker": "03.Bucles\\Program.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs",
+              "RelativeToolTip": "03.Bucles\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:29:22.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs",
-              "RelativeDocumentMoniker": "03.Bucles\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs*",
-              "RelativeToolTip": "03.Bucles\\Program.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFYAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\04.MetodosYFunciones\\Program.cs",
+              "RelativeDocumentMoniker": "04.MetodosYFunciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\04.MetodosYFunciones\\Program.cs*",
+              "RelativeToolTip": "04.MetodosYFunciones\\Program.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAIAwwG8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T01:54:09.691Z",
+              "WhenOpened": "2026-05-15T02:28:00.427Z",
               "EditorCaption": ""
             }
           ]
