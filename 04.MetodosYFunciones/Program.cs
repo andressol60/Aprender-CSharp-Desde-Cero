@@ -90,10 +90,10 @@
             bool contrase;
             do
             {
-                Console.WriteLine("Ingrese su contraña: ");
+                Console.WriteLine("Ingrese su contraseña: ");
                 string contrasenia = Console.ReadLine();
                 contrase = EsContrasenaValida(contrasenia);
-                if (respuesta == false)
+                if (contrase == false)
                 {
                     Console.WriteLine("Menos de 8 caracteres, respuesta incorrecta");
                 }
@@ -142,7 +142,7 @@
 
             static bool EsNotaValida(int nota)
             {
-                if (nota > 0 && nota < 100)
+                if (nota >= 0 && nota <= 100)
                 {
                     return true;
                 }
@@ -175,7 +175,7 @@
             static void MostrarResumen(decimal precioOriginal, double descuento, decimal precioFinal)
             {
                 Console.WriteLine("***************************");
-                decimal ahorro = precioOriginal * Convert.ToDecimal(descuento) / 100;
+                decimal ahorro = precioOriginal * Convert.ToDecimal(descuento / 100);
                 Console.WriteLine($"Precio Original: {precioOriginal:F2}");
                 Console.WriteLine($"Descuento: {descuento:F2}%");
                 Console.WriteLine($"Ahorro: {ahorro}");
