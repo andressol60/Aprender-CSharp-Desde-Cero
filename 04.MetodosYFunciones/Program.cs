@@ -35,9 +35,6 @@
             Console.WriteLine("----------------------------------------------------");
 
 
-
-            Console.WriteLine("----------------------------------------------------");
-
             //Metodos son bloques de codigo que pueden ser reutilizables cuantas veces sea necesario
             //estructura
             //modificador de acceso: permite utilizar o no el método o si se define
@@ -77,7 +74,7 @@
                 return Convert.ToString(divi);
             }
             Console.WriteLine("------------------------------------------------");
-
+            Console.WriteLine("Ejercicio 2");
             bool respuesta;
             do
             {
@@ -150,6 +147,40 @@
                     return true;
                 }
                 return false;
+            }
+
+            //-------------------------------------------
+            //Ejercicio 3 — Calculadora de descuentos
+            //Crea un método CalcularPrecioFinal que reciba el precio original como decimal y el porcentaje
+            //de descuento como double, y devuelva el precio final ya con el descuento aplicado.
+            //Luego crea un segundo método MostrarResumen que reciba los mismos datos más el precio final
+            //y muestre en consola un resumen formateado
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("Ejercicio 3");
+            Console.WriteLine("Ingrese el precio Original del producto: ");
+            decimal precioOriginal = decimal.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el porcentaje de descuento: ");
+            double descuento = double.Parse(Console.ReadLine());
+
+            MostrarResumen(precioOriginal, descuento, CalcularPrecioFinal(precioOriginal, descuento));
+
+            static decimal CalcularPrecioFinal(decimal precioOriginal, double descuento)
+            {
+                decimal precioFinal;
+                descuento = descuento / 100;
+                precioFinal = precioOriginal - (precioOriginal * Convert.ToDecimal(descuento));
+                return precioFinal;
+            }
+
+            static void MostrarResumen(decimal precioOriginal, double descuento, decimal precioFinal)
+            {
+                Console.WriteLine("***************************");
+                decimal ahorro = precioOriginal * Convert.ToDecimal(descuento) / 100;
+                Console.WriteLine($"Precio Original: {precioOriginal:F2}");
+                Console.WriteLine($"Descuento: {descuento:F2}%");
+                Console.WriteLine($"Ahorro: {ahorro}");
+                Console.WriteLine($"Precio Final: {precioFinal}");
+                Console.WriteLine("***************************");
             }
 
             Console.Read();
