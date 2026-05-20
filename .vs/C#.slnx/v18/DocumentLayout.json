@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cliente_05.POO",
+              "Title": "Cliente_05.POO.csproj",
               "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
               "RelativeDocumentMoniker": "Cliente_05.POO\\Cliente_05.POO.csproj",
               "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
               "RelativeToolTip": "Cliente_05.POO\\Cliente_05.POO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-20T04:25:18.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T04:25:18.353Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Cliente_05.POO\\Program.cs",
               "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
               "RelativeToolTip": "Cliente_05.POO\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T04:24:42.186Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "05.POO_ClasesYObjetos\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T04:24:39.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T04:24:39.639Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "05.POO_ClasesYObjetos\\Explicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T04:24:38.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T04:24:38.511Z"
             }
           ]
         }

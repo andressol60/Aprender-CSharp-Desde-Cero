@@ -18,7 +18,11 @@ namespace Cliente_05.POO
 
             //llamo al metodo de la clase persona 
             persona.Saludar();
-
+            Console.WriteLine("-----------------------------------------");
+            Persona persona1 = new Persona();
+            persona1.Nombre = "Maria";
+            persona1.Edad = 24;
+            persona1.Saludar();
             Console.ReadLine();
         }
     }
