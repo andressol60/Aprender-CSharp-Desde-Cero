@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3512CFCB-BBBC-49F2-9464-B84E6B13E492}|04.MetodosYFunciones\\04.MetodosYFunciones.csproj|c:\\users\\wellington solis\\desktop\\c#\\04.metodosyfunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3512CFCB-BBBC-49F2-9464-B84E6B13E492}|04.MetodosYFunciones\\04.MetodosYFunciones.csproj|solutionrelative:04.metodosyfunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_05.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_05.POO.csproj|solutionrelative:cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C96BAE-4916-4229-8CDE-BC258F4F3ECF}|03.Bucles\\03.Bucles.csproj|c:\\users\\wellington solis\\desktop\\c#\\03.bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C96BAE-4916-4229-8CDE-BC258F4F3ECF}|03.Bucles\\03.Bucles.csproj|solutionrelative:03.bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_05.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_05.poo\\cliente_05.poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_05.POO.csproj|solutionrelative:cliente_05.poo\\cliente_05.poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A01A64E-CE32-4E82-B03C-BD0B3147FB2F}|01.Variables\\01.Variables.csproj|c:\\users\\wellington solis\\desktop\\c#\\01.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A01A64E-CE32-4E82-B03C-BD0B3147FB2F}|01.Variables\\01.Variables.csproj|solutionrelative:01.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj|c:\\users\\wellington solis\\desktop\\c#\\05.poo_clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj|solutionrelative:05.poo_clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj|c:\\users\\wellington solis\\desktop\\c#\\05.poo_clasesyobjetos\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj|solutionrelative:05.poo_clasesyobjetos\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
-              "RelativeDocumentMoniker": "01.Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
-              "RelativeToolTip": "01.Variables\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:40:21.597Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs",
-              "RelativeDocumentMoniker": "03.Bucles\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\03.Bucles\\Program.cs",
-              "RelativeToolTip": "03.Bucles\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:29:22.8Z"
+              "Title": "Cliente_05.POO",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
+              "RelativeDocumentMoniker": "Cliente_05.POO\\Cliente_05.POO.csproj",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
+              "RelativeToolTip": "Cliente_05.POO\\Cliente_05.POO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T04:25:18.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\04.MetodosYFunciones\\Program.cs",
-              "RelativeDocumentMoniker": "04.MetodosYFunciones\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\04.MetodosYFunciones\\Program.cs",
-              "RelativeToolTip": "04.MetodosYFunciones\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAawFEAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente_05.POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs*",
+              "RelativeToolTip": "Cliente_05.POO\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T02:28:00.427Z",
+              "WhenOpened": "2026-05-20T04:24:42.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Persona.cs",
+              "RelativeDocumentMoniker": "05.POO_ClasesYObjetos\\Persona.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Persona.cs",
+              "RelativeToolTip": "05.POO_ClasesYObjetos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T04:24:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Explicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Explicacion.cs",
+              "RelativeDocumentMoniker": "05.POO_ClasesYObjetos\\Explicacion.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Explicacion.cs",
+              "RelativeToolTip": "05.POO_ClasesYObjetos\\Explicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T04:24:38.511Z",
               "EditorCaption": ""
             }
           ]

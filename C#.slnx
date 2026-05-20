@@ -3,4 +3,6 @@
   <Project Path="02.Condicionales/02.Condicionales.csproj" />
   <Project Path="03.Bucles/03.Bucles.csproj" Id="a8c96bae-4916-4229-8cde-bc258f4f3ecf" />
   <Project Path="04.MetodosYFunciones/04.MetodosYFunciones.csproj" Id="3512cfcb-bbbc-49f2-9464-b84e6b13e492" />
+  <Project Path="05.POO_ClasesYObjetos/05.POO_ClasesYObjetos.csproj" Id="b6aee743-1aa2-4a08-b96c-697f007f226f" />
+  <Project Path="Cliente_05.POO/Cliente_05.POO.csproj" Id="1a5bb759-d918-414f-8661-087f5baf2be5" />
 </Solution>

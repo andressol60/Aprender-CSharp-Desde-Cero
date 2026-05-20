@@ -1,0 +1,105 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0": {
+      "05.POO_ClasesYObjetos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/05.POO_ClasesYObjetos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/05.POO_ClasesYObjetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.POO_ClasesYObjetos/1.0.0": {
+      "type": "project",
+      "path": "../05.POO_ClasesYObjetos/05.POO_ClasesYObjetos.csproj",
+      "msbuildProject": "../05.POO_ClasesYObjetos/05.POO_ClasesYObjetos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "05.POO_ClasesYObjetos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wellington Solis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
+      "projectName": "Cliente_05.POO",
+      "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
+      "packagesPath": "C:\\Users\\Wellington Solis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Wellington Solis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj": {
+              "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
