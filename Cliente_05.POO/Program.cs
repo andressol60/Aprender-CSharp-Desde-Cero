@@ -26,8 +26,13 @@ namespace Cliente_05.POO
             Console.WriteLine($"Nombre persona 1: {persona.Nombre}");
 
             Console.WriteLine("-----------------------------------------");
-
-
+            Operaciones_matematicas ope = new Operaciones_matematicas(8, 5);
+            Console.WriteLine($"Numero 1: {ope.Numero1}");
+            Console.WriteLine($"Numero 2: {ope.Numero2}");
+            Console.WriteLine($"Suma: {ope.suma()}");
+            Console.WriteLine($"Resta: {ope.resta()}");
+            Console.WriteLine($"Multiplicación: {ope.multiplicacion()}");
+            Console.WriteLine($"División: {ope.division()}");
 
             Console.Read();
         }
