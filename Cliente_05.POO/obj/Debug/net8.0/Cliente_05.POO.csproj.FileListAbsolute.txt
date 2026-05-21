@@ -3,8 +3,6 @@ C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\Cliente_05.
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\Cliente_05.POO.runtimeconfig.json
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\Cliente_05.POO.dll
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\Cliente_05.POO.pdb
-C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\05.POO_ClasesYObjetos.dll
-C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\05.POO_ClasesYObjetos.pdb
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\Cliente_05.POO.csproj.AssemblyReference.cache
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\Cliente_05.POO.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\Cliente_05.POO.AssemblyInfoInputs.cache
@@ -17,3 +15,5 @@ C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\refint\Clie
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\Cliente_05.POO.pdb
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\Cliente_05.POO.genruntimeconfig.cache
 C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\obj\Debug\net8.0\ref\Cliente_05.POO.dll
+C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\Cliente_05.POO\bin\Debug\net8.0\06.POO_ClasesYObjetos.pdb

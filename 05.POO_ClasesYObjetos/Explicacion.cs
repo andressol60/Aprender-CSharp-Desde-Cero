@@ -1,4 +1,4 @@
-﻿namespace _05.POO_ClasesYObjetos
+﻿namespace _06.POO_ClasesYObjetos
 {
     public class Explicacion
     {

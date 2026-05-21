@@ -1,4 +1,4 @@
-﻿using _05.POO_ClasesYObjetos;
+﻿using _06.POO_ClasesYObjetos;
 
 namespace Cliente_05.POO
 {

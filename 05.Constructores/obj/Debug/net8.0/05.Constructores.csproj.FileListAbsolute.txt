@@ -1,0 +1,15 @@
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\bin\Debug\net8.0\05.Constructores.exe
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\bin\Debug\net8.0\05.Constructores.deps.json
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\bin\Debug\net8.0\05.Constructores.runtimeconfig.json
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\bin\Debug\net8.0\05.Constructores.dll
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\bin\Debug\net8.0\05.Constructores.pdb
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.dll
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\refint\05.Constructores.dll
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.pdb
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\05.Constructores.genruntimeconfig.cache
+C:\Users\Wellington Solis\Desktop\C#\05.Constructores\obj\Debug\net8.0\ref\05.Constructores.dll

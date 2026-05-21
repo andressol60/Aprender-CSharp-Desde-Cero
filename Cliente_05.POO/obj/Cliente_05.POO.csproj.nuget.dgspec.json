@@ -4,12 +4,12 @@
     "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj": {
+    "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj",
-        "projectName": "05.POO_ClasesYObjetos",
-        "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
+        "projectName": "06.POO_ClasesYObjetos",
+        "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
         "packagesPath": "C:\\Users\\Wellington Solis\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\obj\\",
         "projectStyle": "PackageReference",
@@ -102,8 +102,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj": {
-                "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\05.POO_ClasesYObjetos.csproj"
+              "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj": {
+                "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj"
               }
             }
           }
