@@ -21,6 +21,9 @@
             Persona persona2 = new Persona("Juan", "Castro", 26);  //Instancia del objeto con datos en el constructor
             Console.WriteLine($"El nombre de la persona 2 es: {persona2.Nombre}");
 
+            Console.WriteLine("---------------------------------------------");
+
+
             Console.Read();
 
         }

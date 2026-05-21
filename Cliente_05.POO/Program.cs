@@ -23,7 +23,13 @@ namespace Cliente_05.POO
             persona1.Nombre = "Maria";
             persona1.Edad = 24;
             persona1.Saludar();
-            Console.ReadLine();
+            Console.WriteLine($"Nombre persona 1: {persona.Nombre}");
+
+            Console.WriteLine("-----------------------------------------");
+
+
+
+            Console.Read();
         }
     }
 }

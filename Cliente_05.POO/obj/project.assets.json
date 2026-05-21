@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
-      "projectName": "Cliente_05.POO",
-      "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_05.POO.csproj",
+      "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_06.POO.csproj",
+      "projectName": "Cliente_06.POO",
+      "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Cliente_06.POO.csproj",
       "packagesPath": "C:\\Users\\Wellington Solis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\obj\\",
       "projectStyle": "PackageReference",
