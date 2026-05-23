@@ -33,6 +33,38 @@ namespace Cliente_05.POO
             Console.WriteLine($"Resta: {ope.resta()}");
             Console.WriteLine($"Multiplicación: {ope.multiplicacion()}");
             Console.WriteLine($"División: {ope.division()}");
+            Console.WriteLine("------------------------------------------------");
+            //Ejercicios:
+            //Ejercicio 1 — Clase Estudiante
+            //Crea una clase Estudiante con las propiedades Nombre, Apellido, Edad y Nota.
+            //Agrega un constructor que reciba todos los datos. Crea tres métodos: MostrarInfo()
+            //que imprima todos los datos del estudiante, ObtenerNombreCompleto() que devuelva nombre y apellido juntos,
+            //y ObtenerCalificacion() que devuelva un string con la calificación según la nota(Reprobado, Aprobado,
+            //Bueno, Muy bueno, Excelente).Crea al menos tres objetos Estudiante distintos y llama a todos los métodos.
+
+
+
+
+            //Ejercicio 2 — Clase CuentaBancaria
+            //Crea una clase CuentaBancaria con las propiedades NumeroCuenta, Titular y Saldo.
+            //El saldo debe ser de solo lectura desde afuera, solo la propia clase puede modificarlo.
+            //Crea tres métodos: Depositar(decimal monto) que sume al saldo validando que el monto sea mayor a cero,
+            //Retirar(decimal monto) que reste del saldo validando que haya suficiente dinero y que el monto sea mayor a cero,
+            //y MostrarEstado() que imprima el número de cuenta, titular y saldo actual.Crea dos cuentas distintas
+            //y prueba depositar, retirar y mostrar el estado.
+
+
+
+
+
+            //Ejercicio 3 — Clase Calculadora
+            //Crea una clase Calculadora que tenga una propiedad Historial que sea una lista de strings donde
+            //se guarden todas las operaciones realizadas. Crea los métodos Sumar, Restar, Multiplicar y Dividir,
+            //cada uno recibe dos decimales, realiza la operación, guarda en el historial un string con el formato "5 + 3 = 8"
+            //y devuelve el resultado. Agrega un método MostrarHistorial() que imprima todas las operaciones realizadas.
+            //Realiza al menos seis operaciones distintas y muestra el historial al final.
+
+
 
             Console.Read();
         }
