@@ -41,6 +41,19 @@ namespace Cliente_05.POO
             //que imprima todos los datos del estudiante, ObtenerNombreCompleto() que devuelva nombre y apellido juntos,
             //y ObtenerCalificacion() que devuelva un string con la calificación según la nota(Reprobado, Aprobado,
             //Bueno, Muy bueno, Excelente).Crea al menos tres objetos Estudiante distintos y llama a todos los métodos.
+            Estudiante estudiante1 = new Estudiante("Andres", "Solis", 19, 7.5m);
+            Estudiante estudiante2 = new Estudiante("Alfredo", "Acosta", 19, 3.5m);
+            Estudiante estudiante3 = new Estudiante("Carlos", "Armendariz", 19, 10m);
+            Estudiante estudiante4 = new Estudiante("Pedro", "Valle", 19, 9m);
+
+            //estudiante1
+            estudiante1.MostrarInfo();
+            Console.WriteLine("-------------------");
+            Console.WriteLine(estudiante2.ObtenerNombreCompleto());
+            Console.WriteLine("-------------------");
+            Console.WriteLine(estudiante3.ObtenerCalificacion());
+            Console.WriteLine(estudiante2.ObtenerCalificacion());
+            Console.WriteLine("=========================================");
 
 
 
