@@ -64,9 +64,32 @@ namespace Cliente_05.POO
             //y MostrarEstado() que imprima el número de cuenta, titular y saldo actual.Crea dos cuentas distintas
             //y prueba depositar, retirar y mostrar el estado.
 
+            CuentaBancaria cuenta1 = new CuentaBancaria("1805", "Andres Crespo", 120.60m);
+            CuentaBancaria cuenta2 = new CuentaBancaria("1806", "Pedro Perez", 550.69m);
 
+            cuenta1.MostrarEstado();
+            Console.WriteLine("**********");
+            Console.WriteLine("Deposita: 50");
+            cuenta1.Depositar(50);
+            cuenta1.MostrarEstado();
+            Console.WriteLine("**********");
+            Console.WriteLine("Retira: 80");
+            cuenta1.Retirar(80);
+            cuenta1.MostrarEstado();
+            Console.WriteLine("**********");
 
+            Console.WriteLine("---------------------------------------");
 
+            cuenta2.MostrarEstado();
+            Console.WriteLine("**********");
+            Console.WriteLine("Deposita: 20");
+            cuenta2.Depositar(20);
+            cuenta2.MostrarEstado();
+            Console.WriteLine("**********");
+            Console.WriteLine("Retira: 100");
+            cuenta2.Retirar(100);
+            cuenta2.MostrarEstado();
+            Console.WriteLine("**********");
 
             //Ejercicio 3 — Clase Calculadora
             //Crea una clase Calculadora que tenga una propiedad Historial que sea una lista de strings donde

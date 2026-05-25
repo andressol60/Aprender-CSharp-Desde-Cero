@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06.POO_ClasesYObjetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e10fddfaeebf89dbc7528da01a38d4a9a8b6fa72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6354f03a056560411c31556e5551a2d66db203f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("06.POO_ClasesYObjetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06.POO_ClasesYObjetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
