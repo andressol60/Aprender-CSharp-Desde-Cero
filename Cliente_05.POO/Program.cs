@@ -56,8 +56,6 @@ namespace Cliente_05.POO
             Console.WriteLine("=========================================");
 
 
-
-
             //Ejercicio 2 — Clase CuentaBancaria
             //Crea una clase CuentaBancaria con las propiedades NumeroCuenta, Titular y Saldo.
             //El saldo debe ser de solo lectura desde afuera, solo la propia clase puede modificarlo.
