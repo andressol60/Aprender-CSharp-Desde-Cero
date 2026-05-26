@@ -97,6 +97,14 @@ namespace Cliente_05.POO
             //cada uno recibe dos decimales, realiza la operación, guarda en el historial un string con el formato "5 + 3 = 8"
             //y devuelve el resultado. Agrega un método MostrarHistorial() que imprima todas las operaciones realizadas.
             //Realiza al menos seis operaciones distintas y muestra el historial al final.
+            decimal num1 = 15m;
+            decimal num2 = 8m;
+
+            Calculadora calculadora = new Calculadora();
+            calculadora.Sumar(num1, num2);
+            calculadora.Restar(num1, num2);
+            calculadora.Multiplicar(num1, num2);
+            calculadora.Dividir(num1, num2);
 
 
 
