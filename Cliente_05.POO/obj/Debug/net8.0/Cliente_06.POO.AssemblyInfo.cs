@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cliente_06.POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6354f03a056560411c31556e5551a2d66db203f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c9c4a1a6cd56ebf124e9568962d59460cc5c3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cliente_06.POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cliente_06.POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

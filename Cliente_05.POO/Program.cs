@@ -91,6 +91,7 @@ namespace Cliente_05.POO
             cuenta2.MostrarEstado();
             Console.WriteLine("**********");
 
+            Console.WriteLine("---------------------------------------");
             //Ejercicio 3 — Clase Calculadora
             //Crea una clase Calculadora que tenga una propiedad Historial que sea una lista de strings donde
             //se guarden todas las operaciones realizadas. Crea los métodos Sumar, Restar, Multiplicar y Dividir,
@@ -98,15 +99,20 @@ namespace Cliente_05.POO
             //y devuelve el resultado. Agrega un método MostrarHistorial() que imprima todas las operaciones realizadas.
             //Realiza al menos seis operaciones distintas y muestra el historial al final.
             decimal num1 = 15m;
-            decimal num2 = 8m;
+            decimal num2 = 3m;
 
             Calculadora calculadora = new Calculadora();
             calculadora.Sumar(num1, num2);
             calculadora.Restar(num1, num2);
             calculadora.Multiplicar(num1, num2);
             calculadora.Dividir(num1, num2);
+            calculadora.Sumar(num2, num1);
+            calculadora.Restar(num2, num2);
 
-
+            for (int i = 0; i < calculadora.Historial.Count; i++)
+            {
+                Console.WriteLine(calculadora.Historial[i]);
+            }
 
             Console.Read();
         }
