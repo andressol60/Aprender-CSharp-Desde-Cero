@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|solutionrelative:cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|solutionrelative:cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj|c:\\users\\wellington solis\\desktop\\c#\\05.poo_clasesyobjetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj|solutionrelative:05.poo_clasesyobjetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|solutionrelative:cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculadora.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Calculadora.cs",
-              "RelativeDocumentMoniker": "05.POO_ClasesYObjetos\\Calculadora.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\Calculadora.cs",
-              "RelativeToolTip": "05.POO_ClasesYObjetos\\Calculadora.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwCgAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_07.POO\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente_07.POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_07.POO\\Program.cs",
+              "RelativeToolTip": "Cliente_07.POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T01:21:43.643Z",
+              "WhenOpened": "2026-06-02T01:21:40.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
               "RelativeDocumentMoniker": "Cliente_05.POO\\Program.cs",
               "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
               "RelativeToolTip": "Cliente_05.POO\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAswGUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T02:39:59.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T01:21:39.904Z"
             }
           ]
         }

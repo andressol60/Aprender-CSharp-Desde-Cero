@@ -10,35 +10,40 @@ public class Calculadora
     }
 
     // Crea los métodos Sumar, Restar, Multiplicar y Dividir
-    public void Sumar(decimal num1, decimal num2)
+    public decimal Sumar(decimal num1, decimal num2)
     {
         decimal suma = num1 + num2;
         Historial.Add($"{num1} + {num2} = {suma:F2}");
+        return suma;
     }
 
-    public void Restar(decimal num1, decimal num2)
+    public decimal Restar(decimal num1, decimal num2)
     {
         decimal resta = num1 - num2;
         Historial.Add($"{num1} - {num2} = {resta:F2}");
+        return resta;
     }
 
-    public void Multiplicar(decimal num1, decimal num2)
+    public decimal Multiplicar(decimal num1, decimal num2)
     {
         decimal multiplicacion = num1 * num2;
         Historial.Add($"{num1} x {num2} = {multiplicacion:F2}");
+        return multiplicacion;
     }
 
-    public void Dividir(decimal num1, decimal num2)
+    public decimal Dividir(decimal num1, decimal num2)
     {
         if (num2 == 0)
         {
             Console.WriteLine("No se pude dividir por cero");
             Historial.Add("No se pude dividir por cero");
+            return 0;
         }
         else
         {
             decimal division = num1 / num2;
             Historial.Add($"{num1} / {num2} = {division:F2}");
+            return division;
         }
     }
 }

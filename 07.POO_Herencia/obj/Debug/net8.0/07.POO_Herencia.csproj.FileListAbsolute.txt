@@ -1,0 +1,12 @@
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\bin\Debug\net8.0\07.POO_Herencia.deps.json
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\bin\Debug\net8.0\07.POO_Herencia.dll
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\bin\Debug\net8.0\07.POO_Herencia.pdb
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.dll
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\refint\07.POO_Herencia.dll
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\07.POO_Herencia.pdb
+C:\Users\Wellington Solis\Desktop\C#\07.POO_Herencia\obj\Debug\net8.0\ref\07.POO_Herencia.dll
