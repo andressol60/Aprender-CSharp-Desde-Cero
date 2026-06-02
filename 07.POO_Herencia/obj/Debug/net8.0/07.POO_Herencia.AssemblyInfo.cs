@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07.POO_Herencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f148377e7cc3d4580316da180db2cb84aa61d09c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2eaa755667697a07b4299accf24badebd8d955")]
 [assembly: System.Reflection.AssemblyProductAttribute("07.POO_Herencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07.POO_Herencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
