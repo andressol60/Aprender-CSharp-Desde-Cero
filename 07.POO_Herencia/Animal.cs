@@ -2,6 +2,7 @@
 {
     public class Animal
     {
+        private string _secreto = "dato privado";      // solo Animal puede verlo
         public string Nombre { get; set; }
         public int Edad { get; set; }
 

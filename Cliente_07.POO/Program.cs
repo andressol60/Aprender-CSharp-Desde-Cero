@@ -10,6 +10,35 @@ namespace Cliente_07.POO
 
             perro.HacerSonido();
             perro.Dormir();
+
+            //Ejercicio 1 — Jerarquía de vehículos
+            //Crea una clase base Vehiculo con las propiedades Marca, Modelo, Año y Velocidad.
+            //Agrega un método virtual llamado MostrarInfo() que imprima todos los datos, y un método
+            //Acelerar(int km) que sume a la velocidad.Luego crea tres clases que hereden de Vehiculo:
+            //Auto con la propiedad NumeroPuertas, Moto con la propiedad TipoManubrio,
+            //y Camion con la propiedad CapacidadToneladas.Cada una hace override de MostrarInfo()
+            //para mostrar también su propiedad extra.Crea un objeto de cada tipo y prueba todos los métodos.
+
+
+            //Ejercicio 2 — Sistema de empleados
+            //Crea una clase base Persona con Nombre, Apellido y Edad.
+            //Crea una clase Empleado que herede de Persona y agregue Cargo, SalarioBase
+            //y un método virtual CalcularSalario() que devuelva el salario base.
+            //Luego crea dos clases que hereden de Empleado: EmpleadoFijo que agregue
+            //Bonificacion y sobreescriba CalcularSalario() sumando la bonificación al salario base,
+            //y EmpleadoPorHoras que agregue HorasTrabajadas y ValorHora y sobreescriba CalcularSalario()
+            //multiplicando horas por valor hora.Crea objetos de ambos tipos y muestra el salario calculado de cada uno.
+
+
+            //Ejercicio 3 — Extensión de CuentaBancaria
+            //Toma la clase CuentaBancaria que ya hiciste en el Tema 05 y crea dos clases que hereden de ella:
+            //CuentaAhorros que agregue una propiedad TasaInteres y un método AplicarInteres()
+            //que calcule y sume los intereses al saldo, y CuentaCorriente que agregue LimiteDescubierto
+            //y sobreescriba el método Retirar() para permitir retirar hasta el límite de descubierto sin
+            //que el saldo baje de cero.Prueba ambas cuentas con depósitos, retiros y sus métodos especiales.
+
+
+            Console.Read();
         }
     }
 }

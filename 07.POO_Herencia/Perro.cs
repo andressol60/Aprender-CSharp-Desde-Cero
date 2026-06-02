@@ -1,5 +1,8 @@
 ﻿namespace _07.POO_Herencia
 {
+    //sealed — evitar que una clase sea heredada
+    //Si no quieres que nadie pueda heredar de tu clase
+    //public sealed class Perro : Animal
     public class Perro : Animal    //perro hereda de Animal sus atributos
     {
 

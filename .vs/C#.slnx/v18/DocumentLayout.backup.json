@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|solutionrelative:cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A5BB759-D918-414F-8661-087F5BAF2BE5}|Cliente_05.POO\\Cliente_06.POO.csproj|solutionrelative:cliente_05.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|solutionrelative:cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_07.POO\\Program.cs",
               "RelativeDocumentMoniker": "Cliente_07.POO\\Program.cs",
@@ -39,15 +39,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
               "RelativeDocumentMoniker": "Cliente_05.POO\\Program.cs",
               "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_05.POO\\Program.cs",
               "RelativeToolTip": "Cliente_05.POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:21:39.904Z"
+              "WhenOpened": "2026-06-02T01:21:39.904Z",
+              "EditorCaption": ""
             }
           ]
         }
