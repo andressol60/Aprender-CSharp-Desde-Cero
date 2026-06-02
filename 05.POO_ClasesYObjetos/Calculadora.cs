@@ -33,7 +33,7 @@ public class Calculadora
         if (num2 == 0)
         {
             Console.WriteLine("No se pude dividir por cero");
-
+            Historial.Add("No se pude dividir por cero");
         }
         else
         {

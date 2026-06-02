@@ -4,7 +4,7 @@ public class CuentaBancaria
 {
     public string NumeroCuenta { get; set; }
     public string Titular { get; set; }
-    private decimal Saldo { get; set; }
+    public decimal Saldo { get; private set; }
 
     public CuentaBancaria(string numeroCuenta, string titular, decimal saldo)
     {
@@ -13,10 +13,10 @@ public class CuentaBancaria
         Saldo = saldo;
     }
 
-    public decimal ConsultarSaldo()
-    {
-        return Saldo;
-    }
+    //public decimal ConsultarSaldo()
+    //{
+    //    return Saldo;
+    //}
 
     //Sume al saldo validando que el monto sea mayor a cero
     public void Depositar(decimal monto)
