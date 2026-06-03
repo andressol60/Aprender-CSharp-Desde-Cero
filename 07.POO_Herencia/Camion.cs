@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.POO_Herencia
+﻿namespace _07.POO_Herencia
 {
-    internal class Camion
+    public class Camion : Vehiculo
     {
+        public decimal CapacidadToneladas { get; set; }
+        public Camion(string marca, string modelo,
+            int anio, decimal velocidad, decimal capacidadtoneladas)
+            : base(marca, modelo, anio, velocidad)
+        {
+            CapacidadToneladas = capacidadtoneladas;
+        }
+
+        public override void MostrarInfo()
+        {
+            base.MostrarInfo();    //NO HAY NECESIDAD DE COPIAR TODO EL CODIGO DEL METODO POR ALGO ESTA HEREDANDO
+            Console.WriteLine($"Capacidad Toneladas: {CapacidadToneladas}");
+        }
     }
 }

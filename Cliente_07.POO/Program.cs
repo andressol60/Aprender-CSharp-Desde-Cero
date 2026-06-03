@@ -18,8 +18,16 @@ namespace Cliente_07.POO
             //Auto con la propiedad NumeroPuertas, Moto con la propiedad TipoManubrio,
             //y Camion con la propiedad CapacidadToneladas.Cada una hace override de MostrarInfo()
             //para mostrar también su propiedad extra.Crea un objeto de cada tipo y prueba todos los métodos.
+            Console.WriteLine("--------------------------------");
+            Vehiculo auto1 = new Auto("Chevrolet", "Camaro", 2012, 90.5m, 2);
+            Vehiculo moto1 = new Moto("Suzuki", "abc456", 2020, 60.5m, "recto");
+            Vehiculo camion1 = new Camion("Hino", "gh", 2021, 40.5m, 5);
 
-
+            auto1.MostrarInfo();
+            Console.WriteLine("=========");
+            moto1.MostrarInfo();
+            Console.WriteLine("=========");
+            camion1.MostrarInfo();
             //Ejercicio 2 — Sistema de empleados
             //Crea una clase base Persona con Nombre, Apellido y Edad.
             //Crea una clase Empleado que herede de Persona y agregue Cargo, SalarioBase
@@ -28,6 +36,8 @@ namespace Cliente_07.POO
             //Bonificacion y sobreescriba CalcularSalario() sumando la bonificación al salario base,
             //y EmpleadoPorHoras que agregue HorasTrabajadas y ValorHora y sobreescriba CalcularSalario()
             //multiplicando horas por valor hora.Crea objetos de ambos tipos y muestra el salario calculado de cada uno.
+            Console.WriteLine("--------------------------------");
+
 
 
             //Ejercicio 3 — Extensión de CuentaBancaria
@@ -36,6 +46,8 @@ namespace Cliente_07.POO
             //que calcule y sume los intereses al saldo, y CuentaCorriente que agregue LimiteDescubierto
             //y sobreescriba el método Retirar() para permitir retirar hasta el límite de descubierto sin
             //que el saldo baje de cero.Prueba ambas cuentas con depósitos, retiros y sus métodos especiales.
+            Console.WriteLine("--------------------------------");
+
 
 
             Console.Read();
