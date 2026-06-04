@@ -38,8 +38,13 @@ namespace Cliente_07.POO
             //y EmpleadoPorHoras que agregue HorasTrabajadas y ValorHora y sobreescriba CalcularSalario()
             //multiplicando horas por valor hora.Crea objetos de ambos tipos y muestra el salario calculado de cada uno.
             Console.WriteLine("--------------------------------");
+            Empleado persona1 = new EmpleadoFijo("Carlos", "Saenz", 25, "supervisor", 1000, 15m);
+            Empleado persona2 = new EmpleadoPorHoras("Pedro", "Herrera", 29, "Empleado producción", 900, 120, 5);
 
+            Console.WriteLine($"Empleado: {persona1.Nombre} {persona1.Apellido}");
+            Console.WriteLine($"Sueldo mensual: {persona1.CalcularSalario()}");
 
+            Console.WriteLine();
 
             //Ejercicio 3 — Extensión de CuentaBancaria
             //Toma la clase CuentaBancaria que ya hiciste en el Tema 05 y crea dos clases que hereden de ella:
