@@ -28,6 +28,7 @@ namespace Cliente_07.POO
             moto1.MostrarInfo();
             Console.WriteLine("=========");
             camion1.MostrarInfo();
+
             //Ejercicio 2 — Sistema de empleados
             //Crea una clase base Persona con Nombre, Apellido y Edad.
             //Crea una clase Empleado que herede de Persona y agregue Cargo, SalarioBase
