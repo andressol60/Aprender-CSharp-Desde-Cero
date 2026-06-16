@@ -4,7 +4,7 @@ public class CuentaBancaria
 {
     public string NumeroCuenta { get; set; }
     public string Titular { get; set; }
-    public decimal Saldo { get; private set; }
+    public decimal Saldo { get; protected set; }
 
     public CuentaBancaria(string numeroCuenta, string titular, decimal saldo)
     {

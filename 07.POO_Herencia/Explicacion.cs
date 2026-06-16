@@ -10,5 +10,10 @@
         //Un CuentaAhorros es una CuentaBancaria.
         //Cuando existe esa relación, tiene sentido usar herencia.
 
+        //Clase virtual
+        //A veces la clase derivada necesita hacer algo diferente con un método heredado.
+        //Para eso usas virtual en la clase base y override en la derivada:
+        //
+
     }
 }

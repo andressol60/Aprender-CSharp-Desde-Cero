@@ -17,3 +17,5 @@ C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\obj\Debug\net8.0\refint\Clie
 C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\obj\Debug\net8.0\Cliente_07.POO.pdb
 C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\obj\Debug\net8.0\Cliente_07.POO.genruntimeconfig.cache
 C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\obj\Debug\net8.0\ref\Cliente_07.POO.dll
+C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\bin\Debug\net8.0\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\Cliente_07.POO\bin\Debug\net8.0\06.POO_ClasesYObjetos.pdb
