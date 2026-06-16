@@ -11,7 +11,7 @@ namespace _07.POO_Herencia
             LimiteDescubierto = limiteDescubierto;
         }
 
-        public virtual bool Retirar(decimal montoRetiro)   // 
+        public virtual bool Retirar(decimal montoRetiro)   // metodo virtual para calcular el retiro
         {
             if (montoRetiro <= Saldo + LimiteDescubierto)
             {

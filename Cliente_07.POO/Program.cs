@@ -56,9 +56,42 @@ namespace Cliente_07.POO
             //y sobreescriba el método Retirar() para permitir retirar hasta el límite de descubierto sin
             //que el saldo baje de cero.Prueba ambas cuentas con depósitos, retiros y sus métodos especiales.
             Console.WriteLine("--------------------------------");
+            CuentaCorriente cuenta1 = new CuentaCorriente("1805", "Andres Solis", 500.2m, 8);
+            CuentasAhorros cuenta2 = new CuentasAhorros("1806", "Pablo Sanchez", 100, 250);
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("Corriente");
+            Console.WriteLine($"Saldo de la cuenta: {cuenta1.Saldo.ToString("F2")}");
+            Console.WriteLine($"Interes: {cuenta1.TasaInteres}%");
+            Console.WriteLine($"Total con Interes: {cuenta1.AplicarInteres().ToString("F2")}%");
+            Console.WriteLine("-------------");
+            Console.WriteLine($"Deposito: 100$");
+            cuenta1.Depositar(100m);
+            Console.WriteLine($"Saldo de la cuenta: {cuenta1.Saldo.ToString("F2")}");
+            Console.WriteLine($"Interes: {cuenta1.TasaInteres}%");
+            Console.WriteLine($"Total con Interes: {cuenta1.AplicarInteres().ToString("F2")}%");
 
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("Ahorros");
+            Console.WriteLine($"Saldo de la cuenta: {cuenta2.Saldo}");
+            Console.WriteLine($"Limite descubierto {cuenta2.LimiteDescubierto}");
 
+            Console.WriteLine("-------------");
+            Console.WriteLine("Retiro 100");
+            cuenta2.Retirar(100);
+            Console.WriteLine($"Saldo de la cuenta: {cuenta2.Saldo}");
+            Console.WriteLine($"Limite descubierto {cuenta2.LimiteDescubierto}");
+            Console.WriteLine("-------------");
+            Console.WriteLine("Retiro 100");
+            cuenta2.Retirar(100);
+            Console.WriteLine($"Saldo de la cuenta: {cuenta2.Saldo}");
+            Console.WriteLine($"Limite descubierto {cuenta2.LimiteDescubierto}");
 
+            Console.WriteLine("-------------");
+            Console.WriteLine("Retiro 300");
+            cuenta2.Retirar(300);
+            Console.WriteLine($"Saldo de la cuenta: {cuenta2.Saldo}");
+            Console.WriteLine($"Limite descubierto {cuenta2.LimiteDescubierto}");
             Console.Read();
         }
     }

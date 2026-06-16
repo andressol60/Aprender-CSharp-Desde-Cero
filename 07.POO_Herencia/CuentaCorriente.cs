@@ -14,7 +14,8 @@ namespace _07.POO_Herencia
         public decimal AplicarInteres()
         {
             decimal interes = Saldo * (TasaInteres / 100);
-            return interes;
+            Saldo = Saldo + interes;
+            return Saldo;
         }
     }
 }
