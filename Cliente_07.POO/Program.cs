@@ -1,4 +1,5 @@
-﻿using _07.POO_Herencia;
+﻿using _06.POO_ClasesYObjetos;
+using _07.POO_Herencia;
 
 namespace Cliente_07.POO
 {
@@ -56,10 +57,11 @@ namespace Cliente_07.POO
             //y sobreescriba el método Retirar() para permitir retirar hasta el límite de descubierto sin
             //que el saldo baje de cero.Prueba ambas cuentas con depósitos, retiros y sus métodos especiales.
             Console.WriteLine("--------------------------------");
-            CuentaCorriente cuenta1 = new CuentaCorriente("1805", "Andres Solis", 500.2m, 8);
-            CuentasAhorros cuenta2 = new CuentasAhorros("1806", "Pablo Sanchez", 100, 250);
+            CuentaBancaria cuenta1 = new CuentasAhorros("1806", "Pablo Sanchez", 100m, 250m);
+            CuentaCorriente cuenta2 = new CuentaCorriente("1805", "Andres Solis", 500.2m, 8);
+
             Console.WriteLine("--------------------------");
-            Console.WriteLine("Corriente");
+            Console.WriteLine("Ahorros");
             Console.WriteLine($"Saldo de la cuenta: {cuenta1.Saldo.ToString("F2")}");
             Console.WriteLine($"Interes: {cuenta1.TasaInteres}%");
             Console.WriteLine($"Total con Interes: {cuenta1.AplicarInteres().ToString("F2")}%");
