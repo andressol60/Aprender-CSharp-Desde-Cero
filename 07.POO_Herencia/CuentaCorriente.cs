@@ -11,16 +11,17 @@ namespace _07.POO_Herencia
             LimiteDescubierto = limiteDescubierto;
         }
 
-        public virtual bool Retirar(decimal montoRetiro)   // metodo virtual para calcular el retiro
+        public override void Retirar(decimal montoRetiro)
         {
-            if (montoRetiro <= Saldo + LimiteDescubierto)
+            if (montoRetiro <= Saldo + LimiteDescubierto && montoRetiro > 0)
             {
                 Saldo -= montoRetiro;
-                Console.WriteLine($"Retiro con descubierto: {montoRetiro}, Saldo actual: {Saldo}");
-                return true;
+                Console.WriteLine($"Retiro: {montoRetiro}, Saldo actual: {Saldo}");
             }
-            Console.WriteLine("Supera el límite de descubierto.");
-            return false;
+            else
+            {
+                Console.WriteLine("Supera el límite de descubierto.");
+            }
         }
     }
 }

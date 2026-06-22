@@ -1,5 +1,4 @@
-﻿using _06.POO_ClasesYObjetos;
-using _07.POO_Herencia;
+﻿using _07.POO_Herencia;
 
 namespace Cliente_07.POO
 {
@@ -57,8 +56,8 @@ namespace Cliente_07.POO
             //y sobreescriba el método Retirar() para permitir retirar hasta el límite de descubierto sin
             //que el saldo baje de cero.Prueba ambas cuentas con depósitos, retiros y sus métodos especiales.
             Console.WriteLine("--------------------------------");
-            CuentaBancaria cuenta1 = new CuentasAhorros("1806", "Pablo Sanchez", 100m, 250m);
-            CuentaCorriente cuenta2 = new CuentaCorriente("1805", "Andres Solis", 500.2m, 8);
+            CuentasAhorros cuenta1 = new CuentasAhorros("1806", "Pablo Sanchez", 100m, 10);
+            CuentaCorriente cuenta2 = new CuentaCorriente("1805", "Andres Solis", 100.2m, 200);
 
             Console.WriteLine("--------------------------");
             Console.WriteLine("Ahorros");
@@ -74,7 +73,7 @@ namespace Cliente_07.POO
 
             Console.WriteLine("--------------------------");
             Console.WriteLine("--------------------------");
-            Console.WriteLine("Ahorros");
+            Console.WriteLine("Corriente");
             Console.WriteLine($"Saldo de la cuenta: {cuenta2.Saldo}");
             Console.WriteLine($"Limite descubierto {cuenta2.LimiteDescubierto}");
 

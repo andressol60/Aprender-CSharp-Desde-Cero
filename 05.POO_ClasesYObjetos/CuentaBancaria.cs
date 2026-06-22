@@ -32,7 +32,7 @@ public class CuentaBancaria
     }
 
     //Que reste del saldo validando que haya suficiente dinero y que el monto sea mayor a cero
-    public void Retirar(decimal montoRetiro)
+    public virtual void Retirar(decimal montoRetiro)
     {
 
         if (montoRetiro <= Saldo && montoRetiro > 0)
