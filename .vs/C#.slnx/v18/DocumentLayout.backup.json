@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4C949885-9124-48D3-AC46-AE6FC9C0C630}|08.POO_Polimorfismo\\08.POO_Polimorfismo.csproj|c:\\users\\wellington solis\\desktop\\c#\\08.poo_polimorfismo\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C949885-9124-48D3-AC46-AE6FC9C0C630}|08.POO_Polimorfismo\\08.POO_Polimorfismo.csproj|solutionrelative:08.poo_polimorfismo\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7370889-287D-44C2-9706-5B9A2EC39322}|Cliente_08.POO\\Cliente_08.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_08.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7370889-287D-44C2-9706-5B9A2EC39322}|Cliente_08.POO\\Cliente_08.POO.csproj|solutionrelative:cliente_08.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\users\\wellington solis\\desktop\\c#\\07.poo_herencia\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|solutionrelative:07.poo_herencia\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj|c:\\users\\wellington solis\\desktop\\c#\\05.poo_clasesyobjetos\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6AEE743-1AA2-4A08-B96C-697F007F226F}|05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj|solutionrelative:05.poo_clasesyobjetos\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\users\\wellington solis\\desktop\\c#\\07.poo_herencia\\cuentasahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|solutionrelative:07.poo_herencia\\cuentasahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE90B943-058C-4FD6-91A9-755F4A78F154}|Cliente_07.POO\\Cliente_07.POO.csproj|solutionrelative:cliente_07.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\users\\wellington solis\\desktop\\c#\\07.poo_herencia\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|solutionrelative:07.poo_herencia\\explicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,100 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Explicacion.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\08.POO_Polimorfismo\\Explicacion.cs",
-              "RelativeDocumentMoniker": "08.POO_Polimorfismo\\Explicacion.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\08.POO_Polimorfismo\\Explicacion.cs",
-              "RelativeToolTip": "08.POO_Polimorfismo\\Explicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T01:52:08.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_08.POO\\Program.cs",
-              "RelativeDocumentMoniker": "Cliente_08.POO\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_08.POO\\Program.cs",
-              "RelativeToolTip": "Cliente_08.POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T01:51:41.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CuentaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\CuentaBancaria.cs",
-              "RelativeDocumentMoniker": "05.POO_ClasesYObjetos\\CuentaBancaria.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\CuentaBancaria.cs",
-              "RelativeToolTip": "05.POO_ClasesYObjetos\\CuentaBancaria.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T01:42:55.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CuentaCorriente.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\CuentaCorriente.cs",
-              "RelativeDocumentMoniker": "07.POO_Herencia\\CuentaCorriente.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\CuentaCorriente.cs",
-              "RelativeToolTip": "07.POO_Herencia\\CuentaCorriente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T01:23:24.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CuentasAhorros.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\CuentasAhorros.cs",
-              "RelativeDocumentMoniker": "07.POO_Herencia\\CuentasAhorros.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\CuentasAhorros.cs",
-              "RelativeToolTip": "07.POO_Herencia\\CuentasAhorros.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T01:19:36.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_07.POO\\Program.cs",
-              "RelativeDocumentMoniker": "Cliente_07.POO\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_07.POO\\Program.cs",
-              "RelativeToolTip": "Cliente_07.POO\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwE0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:21:40.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Explicacion.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\Explicacion.cs",
-              "RelativeDocumentMoniker": "07.POO_Herencia\\Explicacion.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\Explicacion.cs",
-              "RelativeToolTip": "07.POO_Herencia\\Explicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T23:27:09.591Z"
             }
           ]
         }

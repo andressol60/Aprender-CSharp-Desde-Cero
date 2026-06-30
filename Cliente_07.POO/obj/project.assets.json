@@ -30,8 +30,8 @@
   "libraries": {
     "06.POO_ClasesYObjetos/1.0.0": {
       "type": "project",
-      "path": "../05.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj",
-      "msbuildProject": "../05.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj"
+      "path": "../06.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj",
+      "msbuildProject": "../06.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj"
     },
     "07.POO_Herencia/1.0.0": {
       "type": "project",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\06.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
       "projectName": "06.POO_ClasesYObjetos",
-      "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\06.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
+      "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\06.POO_ClasesYObjetos.csproj",
       "packagesPath": "C:\\Users\\Wellington Solis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\06.POO_ClasesYObjetos\\obj\\",
+      "outputPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\05.POO_ClasesYObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

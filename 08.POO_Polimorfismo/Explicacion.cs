@@ -12,5 +12,18 @@
         //en efectivo,
         //por transferencia.
         //Cada uno calcula los intereses de forma diferente, pero todos son "pagos".
+        //is y as — operadores para polimorfismo
+        //Para verificar el tipo real de un objeto:
+        //if(vehiculo is Auto)
+        //{
+        //Auto auto = (Auto)vehiculo;
+        //Console.WriteLine(auto.NumeroPuertas);
+        //}
+
+        // o más limpio con pattern matching (C# 7+)
+        //if (vehiculo is Auto auto)
+        //{
+        //Console.WriteLine(auto.NumeroPuertas);
+        //}
     }
 }
