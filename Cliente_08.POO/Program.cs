@@ -22,13 +22,21 @@ namespace Cliente_08.POO
             listaEmpleados.Add(emp3);
             listaEmpleados.Add(emp4);
 
-            foreach (var v in listaEmpleados)
+            foreach (Empleado emp in listaEmpleados)
             {
-                Console.WriteLine(v.Nombre);
-                Console.WriteLine(v.Cargo);
-                Console.WriteLine(v.CalcularSalario().ToString());
+                Console.WriteLine(emp.Nombre);
+                Console.WriteLine(emp.Cargo);
+                Console.WriteLine($"Sueldo: {emp.CalcularSalario():F2}");
                 Console.WriteLine("---------");
             }
+
+            //Ejercicio 2 — Sistema de formas geométricas
+            //Crea una clase base Forma con un método virtual decimal CalcularArea().
+            //Crea tres clases que hereden: Cuadrado con propiedad Lado, Rectangulo con Ancho y Alto,
+            //y Circulo con Radio.
+            //Cada una implementa CalcularArea() con su fórmula.Crea una List<Forma> con varias formas de cada tipo.
+            //Recorre la lista y calcula el área total de todas las formas. Usa polimorfismo para que cada
+            //forma calcule su área sin necesidad de casting.
 
             Console.Read();
         }
