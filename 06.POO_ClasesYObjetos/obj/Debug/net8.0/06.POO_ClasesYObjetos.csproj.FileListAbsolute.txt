@@ -10,3 +10,15 @@ C:\Users\Wellington Solis\Desktop\C#\05.POO_ClasesYObjetos\obj\Debug\net8.0\06.P
 C:\Users\Wellington Solis\Desktop\C#\05.POO_ClasesYObjetos\obj\Debug\net8.0\refint\06.POO_ClasesYObjetos.dll
 C:\Users\Wellington Solis\Desktop\C#\05.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.pdb
 C:\Users\Wellington Solis\Desktop\C#\05.POO_ClasesYObjetos\obj\Debug\net8.0\ref\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\bin\Debug\net8.0\06.POO_ClasesYObjetos.deps.json
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\bin\Debug\net8.0\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\bin\Debug\net8.0\06.POO_ClasesYObjetos.pdb
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\refint\06.POO_ClasesYObjetos.dll
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\06.POO_ClasesYObjetos.pdb
+C:\Users\Wellington Solis\Desktop\C#\06.POO_ClasesYObjetos\obj\Debug\net8.0\ref\06.POO_ClasesYObjetos.dll

@@ -1,11 +1,48 @@
 {
   "version": 4,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "06.POO_ClasesYObjetos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/06.POO_ClasesYObjetos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/06.POO_ClasesYObjetos.dll": {}
+        }
+      },
+      "07.POO_Herencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "06.POO_ClasesYObjetos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/07.POO_Herencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/07.POO_Herencia.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "06.POO_ClasesYObjetos/1.0.0": {
+      "type": "project",
+      "path": "../06.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj",
+      "msbuildProject": "../06.POO_ClasesYObjetos/06.POO_ClasesYObjetos.csproj"
+    },
+    "07.POO_Herencia/1.0.0": {
+      "type": "project",
+      "path": "../07.POO_Herencia/07.POO_Herencia.csproj",
+      "msbuildProject": "../07.POO_Herencia/07.POO_Herencia.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "07.POO_Herencia >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Wellington Solis\\.nuget\\packages\\": {},
@@ -40,7 +77,11 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\07.POO_Herencia.csproj": {
+              "projectPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\07.POO_Herencia.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
