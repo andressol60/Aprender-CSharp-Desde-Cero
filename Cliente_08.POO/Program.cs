@@ -26,7 +26,7 @@ namespace Cliente_08.POO
             {
                 Console.WriteLine(v.Nombre);
                 Console.WriteLine(v.Cargo);
-                v.CalcularSalario();
+                Console.WriteLine(v.CalcularSalario().ToString());
                 Console.WriteLine("---------");
             }
 
