@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
+  "WorkspaceRootPath": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7370889-287D-44C2-9706-5B9A2EC39322}|Cliente_08.POO\\Cliente_08.POO.csproj|c:\\users\\wellington solis\\desktop\\c#\\cliente_08.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7370889-287D-44C2-9706-5B9A2EC39322}|Cliente_08.POO\\Cliente_08.POO.csproj|c:\\dev\\uta\\proyectos_git\\aprender-csharp-desde-cero\\cliente_08.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7370889-287D-44C2-9706-5B9A2EC39322}|Cliente_08.POO\\Cliente_08.POO.csproj|solutionrelative:cliente_08.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\users\\wellington solis\\desktop\\c#\\07.poo_herencia\\empleadofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\dev\\uta\\proyectos_git\\aprender-csharp-desde-cero\\07.poo_herencia\\empleadofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|solutionrelative:07.poo_herencia\\empleadofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\users\\wellington solis\\desktop\\c#\\07.poo_herencia\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|c:\\dev\\uta\\proyectos_git\\aprender-csharp-desde-cero\\07.poo_herencia\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F78AF56-708F-402D-8EA0-AF4AF98ACC51}|07.POO_Herencia\\07.POO_Herencia.csproj|solutionrelative:07.poo_herencia\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EmpleadoPorHoras.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\07.POO_Herencia\\EmpleadoPorHoras.cs",
               "RelativeDocumentMoniker": "07.POO_Herencia\\EmpleadoPorHoras.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\07.POO_Herencia\\EmpleadoPorHoras.cs",
               "RelativeToolTip": "07.POO_Herencia\\EmpleadoPorHoras.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmpleadoFijo.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\EmpleadoFijo.cs",
+              "DocumentMoniker": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\07.POO_Herencia\\EmpleadoFijo.cs",
               "RelativeDocumentMoniker": "07.POO_Herencia\\EmpleadoFijo.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\07.POO_Herencia\\EmpleadoFijo.cs",
+              "ToolTip": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\07.POO_Herencia\\EmpleadoFijo.cs",
               "RelativeToolTip": "07.POO_Herencia\\EmpleadoFijo.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,14 +52,32 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_08.POO\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\Cliente_08.POO\\Program.cs",
               "RelativeDocumentMoniker": "Cliente_08.POO\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Cliente_08.POO\\Program.cs*",
+              "ToolTip": "C:\\dev\\uta\\Proyectos_git\\Aprender-CSharp-Desde-Cero\\Cliente_08.POO\\Program.cs*",
               "RelativeToolTip": "Cliente_08.POO\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T02:41:09.314Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 745,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

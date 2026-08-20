@@ -38,6 +38,8 @@ namespace Cliente_08.POO
             //Recorre la lista y calcula el área total de todas las formas. Usa polimorfismo para que cada
             //forma calcule su área sin necesidad de casting.
 
+
+
             Console.Read();
         }
     }
